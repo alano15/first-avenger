@@ -1,0 +1,29 @@
+.pai-de-todos
+{
+   display:flex;
+   height: 100vh;
+}
+
+.preta
+{
+    width: 33.33%;
+    background-color: black;
+    color: white;
+}
+
+.branca
+{
+    width: 33.33%;
+    background-color: white;
+}
+
+.vermelha
+{
+    width: 33.33%;
+    background-color: red;
+}
+
+body
+{
+    margin: 0;
+}
